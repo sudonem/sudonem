@@ -5,7 +5,7 @@ Definitely a human, not just two droids in a lab coat. (probably)
 -----------------------------------------------------------------
 
 * 🌍  I'm based on planet earth.
-* ✉️  You can contact me at [Mastadon](mailto:https://infosec.exchange/@sudonem)
+* ✉️  You can contact me via <a rel="me" href="https://infosec.exchange/@sudonem">Mastodon</a>
 
 ### Skills
 
@@ -22,4 +22,3 @@ Definitely a human, not just two droids in a lab coat. (probably)
 <p>
 <a href="https://github.com/sudonem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudonem&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
-<a rel="me" href="https://infosec.exchange/@sudonem">Mastodon</a>
